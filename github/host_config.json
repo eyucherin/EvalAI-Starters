@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MzY1NjE0MSwianRpIjoiOWE5OGUzNTY1NGRhNDMxNjk5MmU4Zjc4MzBmYTE1NDIiLCJ1c2VyX2lkIjo0MjI4M30.LDb-ROD8ttUgiu92LOdCLIK9ERLKNKcjbFWdY2UASRk",
+	"team_pk": "3236",
+	"evalai_host_url": "https://eval.ai"
 }
